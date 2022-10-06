@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eder Ramos Filho
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭Dev Front-end
 
 - 🌱 Estou aprendendo Python
 
