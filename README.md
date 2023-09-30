@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Eder Ramos Filho
 
-- 🔭Dev Front-end
+- 🔭Dev Back-end
 
-- 🌱 Estou aprendendo Python
+- 🌱 Python
 
-- 😄 Pronome: ele/dele
 <div align="center">
   <a href="https://github.com/Eder-R">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eder-R&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
